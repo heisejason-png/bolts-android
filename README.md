@@ -589,3 +589,4 @@ Bolts-Android is MIT licensed, as found in the LICENSE file.
 
  [latest]: https://search.maven.org/remote_content?g=com.parse.bolts&a=bolts-tasks&v=LATEST
  [snap]: https://oss.sonatype.org/content/repositories/snapshots/
+Created by Jason Scott Heise
